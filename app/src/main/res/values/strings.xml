@@ -8,4 +8,7 @@
     <string name="post_activity_description">Description</string>
     <string name="post_activity_submit">Post</string>
     <string name="post_activity_logout">Log Out</string>
+    <string name="profile_posts_header">Your Posts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
